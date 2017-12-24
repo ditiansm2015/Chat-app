@@ -1,3 +1,2 @@
 # Chat-app
-A simple android chat app using Firebase as backend
-Contains a Google API supported sign Up/sign In page
+An android app which uses Google Firebase as the database to authenticate the user and let him chat with other users
